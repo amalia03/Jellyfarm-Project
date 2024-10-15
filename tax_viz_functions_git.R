@@ -2,10 +2,7 @@ library(vegan)
 library(scales)
 library(MASS)
 library(ape)
-library(reshape2)
-library(parallel)
 library(ggplot2)
-library(ggvenn)
 library(RColorBrewer)
 
 #################################################################
